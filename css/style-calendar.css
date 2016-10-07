@@ -24,7 +24,6 @@ body {
   font-style: normal;
 }
 
-/* 767px以下: デフォルト */
 a {
   text-decoration:none;
 }
@@ -38,6 +37,8 @@ h1 {}
 
 .container {
   padding:0 0 5em;
+  width:970px;
+  margin:0 auto;
 }
 
 .label_list {
@@ -50,6 +51,8 @@ h1 {}
   list-style-type:none;
   padding:0 0 0 0.3em;
   margin:0 0 0.5em;
+  width:30%;
+  display:inline-block;
 }
 
 .label_list li.as_ring {
@@ -125,27 +128,3 @@ h1 {}
   border-color:#e9557d;
 }
 
- 
-
-/* 991px以下 tabletとsmartphone*/
-@media (max-width: 991px) {
-  .container {
-    padding:1em;
-  }
-}
-
-/* 768px以上 tablet */
-@media (min-width: 768px) {
-}
-
-/* 992px以上 desctop */
-@media (min-width: 992px) {
-  .container {
-    width:970px;
-    margin:0 auto;
-  }
-
-  .label_list li {
-    width:30%;
-    display:inline-block;
-}
