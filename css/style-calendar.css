@@ -103,6 +103,9 @@ h1 {}
 .label_list li.apricot {
   border-color:#db8c64;
 }
+.label_list li.stellaworth {
+    border-color:#ffadaf;
+}
 .label_list li.snow_drops {
   border-color:#0096da;
 }
