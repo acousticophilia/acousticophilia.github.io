@@ -112,6 +112,9 @@ h1 {}
 .label_list li.davrilmoon {
   border-color:#848002;
 }
+.label_list li.vanilla_recipe {
+    border-color:#e53262;
+}
 .label_list li.melty_drop {
   border-color:#f634a8;
 }
