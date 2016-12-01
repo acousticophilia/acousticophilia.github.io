@@ -56,7 +56,6 @@ a {
     padding:0.3em 0.5rem 0;
 }
 
-.detailsBox,
 #disqus_thread,
 .notecontainer {
 	-webkit-border-radius:10px;
@@ -115,6 +114,16 @@ a {
     font-size:0.8rem;
     text-align:center;
 }
+
+.detailsBox {
+	border-radius:10px;
+	border:solid 1px {color:frame Color};
+	margin:0 0 0.8rem;
+	padding:1em;
+	background-color:#fff;
+}
+
+
 .sub {
     margin:1rem 0.5rem;
 }
