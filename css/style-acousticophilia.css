@@ -383,7 +383,7 @@ a {
 	}
 
 	.contentBody {
-		width:640px;
+		width:670px;
 	}
 	.contentBody .post,
     #disqus_thread,
@@ -391,7 +391,7 @@ a {
 		margin:0 0 0.8rem;
 	}
 	.sub {
-		width:310px;
+		width:280px;
 		margin:0;
 	}
 
