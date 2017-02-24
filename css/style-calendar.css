@@ -58,6 +58,9 @@ h1 {}
 .label_list li.as_ring {
   border-color:#d21378;
 }
+.label_list li.bitter_princess_label {
+  border-color:#a11665;
+}
 .label_list li.bizcrown {
   border-color:#000000;
 }
@@ -73,17 +76,32 @@ h1 {}
 .label_list li.kz_entertainment {
   border-color:#f68d97;
 }
+.label_list li.little_cheese {
+  border-color:#f6e8b3;
+}
 .label_list li.littleglow {
   border-color:#339999;
 }
 .label_list li.milkychain {
   border-color:#d6053e;
 }
+.label_list li.nino {
+  border-color:#e4007b;
+}
+.label_list li.operetta_quattro {
+  border-color:#c46ba3;
+}
+.label_list li.operetta_tre {
+  border-color:#a2c2ef;
+}
 .label_list li.operetta_due {
   border-color:#e3a8aa;
 }
 .label_list li.perpetual_blue {
   border-color:#00bfff;
+}
+.label_list li.pil_vamp {
+  border-color:#000;
 }
 .label_list li.strawberry_cats {
   border-color:#e03255;
@@ -124,13 +142,12 @@ h1 {}
 .label_list li.rabbit_candy {
   border-color:#700ba5;
 }
-.label_list li.little_noise {
-  border-color:#c2c2c2;
-}
 .label_list li.hanakagami {
   border-color:#ff01fa;
+}
+.label_list li.coterie {
+  border-color:#ff7537;
 }
 .label_list li.mitsubomi {
   border-color:#e9557d;
 }
-
