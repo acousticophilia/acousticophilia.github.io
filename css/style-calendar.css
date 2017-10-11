@@ -70,8 +70,14 @@ h1 {}
 .label_list li.chocolat_blanc {
   border-color:#d60178;
 }
+.label_list li.chouette {
+  border-color:#c2c2c2;
+}
 .label_list li.entremets {
   border-color:#e8525d;
+}
+.label_list li.gold {
+  border-color:#fbc61c;
 }
 .label_list li.kz_entertainment {
   border-color:#f68d97;
@@ -103,6 +109,9 @@ h1 {}
 .label_list li.pil_vamp {
   border-color:#000;
 }
+.label_list li.sakurastreet {
+  border-color:#ffbebe;
+}
 .label_list li.strawberry_cats {
   border-color:#e03255;
 }
@@ -121,6 +130,12 @@ h1 {}
 .label_list li.apricot {
   border-color:#db8c64;
 }
+.label_list li.ametriine {
+  border-color:#000;
+}
+.label_list li.karaage_cicle {
+  border-color:#ffad46;
+}
 .label_list li.stellaworth {
     border-color:#ffadaf;
 }
@@ -133,6 +148,9 @@ h1 {}
 .label_list li.vanilla_recipe {
     border-color:#e53262;
 }
+.label_list li.happidra {
+    border-color:#faf1c1;
+}
 .label_list li.melty_drop {
   border-color:#f634a8;
 }
@@ -144,6 +162,12 @@ h1 {}
 }
 .label_list li.hanakagami {
   border-color:#ff01fa;
+}
+.label_list li.blacklady {
+  border-color:#000;
+}
+.label_list li.nenokokubanashi {
+  border-color:#1d2b51;
 }
 .label_list li.coterie {
   border-color:#ff7537;
